@@ -1,9 +1,9 @@
 # 🏠 Family Wellness AI Platform
 
-TEAM MEMBERS
-SK ARJISH HOSSEN---MEMBER
-SHREYA BANERJEE----TEAM LEADER
-SHIVAM HEMBRAM-----MEMBER
+TEAM MEMBERS--
+SK ARJISH HOSSEN(MEMBER),
+SHREYA BANERJEE(TEAM LEADER),
+SHIVAM HEMBRAM(MEMBER).
 An interactive AI-powered web app designed to support Indian families with mental health, parenting, child development, and communication. Built using **Streamlit** and powered by **Google Gemini 1.5 API (BYOK - Bring Your Own Key)**.
 
 ---
